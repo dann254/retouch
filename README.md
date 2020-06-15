@@ -1,11 +1,13 @@
 # retouch
-Refresh your mackbook touchbaer with ease.
+
+Refresh your mackbook touchbar with ease.
 
 
 Is your macbook touchbar frozen? I got you covered.
 
-- this app gives you a solution for that, easily accessible on your touch bar.
+- this app gives you a solution for that, easily accessible on your menu bar.
 
+![Mockup](../gh-pages/img/screen-cap.png?raw=true)
 
 ## Old ways
 Having to look for the command and pasting it on your terminal is a pain right.
@@ -23,7 +25,7 @@ Designed for MacOs 10.12 Sierra and Above
 - Visit [the app website]( https://dann254.github.io/retouch/) and click download.
 - Double click the downloaded zip file to extract.
 - Double clik on the extracted `.dmg`
-- Drag `retouch.app` to the `Apllications` folder.
+- Drag `retouch.app` to the `Applications` folder.
 - wait for the process to finish
 - eject the DMG (by clicking the eject button in the Sidebar)
 
