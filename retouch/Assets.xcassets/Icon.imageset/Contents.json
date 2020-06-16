@@ -3,6 +3,26 @@
     {
       "filename" : "retouch-1.png",
       "idiom" : "mac"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "Artboard 1 copy_22-1.png",
+      "idiom" : "mac"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Artboard 1 copy_22.png",
+      "idiom" : "mac"
     }
   ],
   "info" : {
